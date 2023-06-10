@@ -1,0 +1,12 @@
+  
+  .cards {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .cards__wrapper {
+    width: 490px;
+    margin: auto;
+    padding: 50px 0;
+  }
+  
