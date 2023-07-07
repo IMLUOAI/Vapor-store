@@ -1,0 +1,40 @@
+.note {
+ display: flex;
+ flex-direction: column;
+ max-width: 880px;
+ margin: 20px auto 20px;
+ border-top: 1px solid rgba(84, 84, 84, 0.7);
+}
+
+.note__title {
+  max-width: 282px;
+  margin: 70px auto 25px 0;
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 1.2;
+  color: #f60303;
+}
+
+.note__description {
+    max-width: 880px;
+    margin: 0 auto 30px;
+    font-family:'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.2;
+    color:#fff;
+}
+
+.note__span-accent {
+    max-width: 318px;
+    margin: 0;
+    font-family:'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.2;
+    color: #f60303;
+  }
