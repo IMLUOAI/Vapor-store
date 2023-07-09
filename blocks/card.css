@@ -45,7 +45,7 @@
 
   }
   
-  .card__price {
+  .card__subtitle_price {
     max-width: 210px;
     margin: 22px auto 22px 20px;
     font-family:'Inter', Arial, sans-serif;
@@ -74,4 +74,10 @@
   }
   
   
-  
+@media screen and (max-width: 768px) {
+    .card__title {
+        max-width: 768px;
+        font-size: 22px;
+        line-height: 1.2;
+    }
+}

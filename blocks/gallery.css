@@ -33,5 +33,14 @@
 .gallery__cards {
     width: calc(100% - 40px);
     }
-      
+.gallery__title {
+        max-width: 768px;
+        margin: 50px 20px 60px;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 1.5;
+        color: #fff;
+} 
+    
 }
