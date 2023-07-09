@@ -17,9 +17,9 @@
   margin: 30px auto auto 0;
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 900;
   font-size: 18px;
-  line-height: 1.1;
+  line-height: 1.3;
   color: #fff;
   padding-left: 20px;
 }
@@ -31,7 +31,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 1.1;
+  line-height: 1.3;
   color: #fff;
   padding-left: 40px;
 }
@@ -53,7 +53,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 0.8;
+  line-height: 1.2;
   color: #fff;
   text-decoration: none;
 }
@@ -97,7 +97,7 @@
 .profile__column_social-heading {
   max-width: 80px;
   font-size: 10px;
-  line-height: 0.5;
+  line-height: 1;
   color: #fff;
   padding-left: 20px;
 }
@@ -105,7 +105,7 @@
 .profile__column-heading {
   max-width: 100px;
   font-size: 10px;
-  line-height: 0.5;
+  line-height: 1;
   color: #fff;
   padding-left: 0;
 }
@@ -125,7 +125,7 @@
 
 .profile__column_link {
   font-size: 8px;
-  line-height: 0.5;
+  line-height: 1;
   padding-left: 0;
 }
 

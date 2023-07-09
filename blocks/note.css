@@ -11,7 +11,7 @@
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 0.8;
+    line-height: 1.2;
     color:#848484;
     text-transform: lowercase;
     margin: 12px auto;
@@ -22,7 +22,7 @@
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 0.8;
+    line-height: 1.2;
     color: #fff;
   }
 
@@ -34,12 +34,12 @@
   .note__description {
     margin: 12px 19px;
     font-size: 10px;
-    line-height: 0.5;
+    line-height: 1;
 }
 
 .note__span-accent {
     font-size: 10px;
-    line-height: 0.5;
+    line-height: 1;
     color: #fff;
   }
 }
